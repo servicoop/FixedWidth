@@ -1,11 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: jderay
- * Date: 9/3/14
- * Time: 10:11 PM
- */
-
 namespace Giftcards\FixedWidth\Spec\Loader;
 
 
